@@ -1,0 +1,23 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omar-Hosny1/Node-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omar-Hosny1/Node-JS/issues"
+  },
+  "homepage": "https://github.com/Omar-Hosny1/Node-JS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
